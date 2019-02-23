@@ -1,10 +1,6 @@
 # tado-influxdb
 A little helper script to get measurements from Tado to InfluxDB.
 
-## Warning
-Please be aware that this script is work in progress, does no error handling
-and will probably crash ;-) I will fix this soon...ish!
-
 ## Config
 Before running the script you must create a config.py (see examples/config.py
 for an example). The script will not work properly otherwise.
