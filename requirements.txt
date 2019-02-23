@@ -1,4 +1,4 @@
-datetime
-fake-useragent
-requests
-influxdb
+DateTime==4.3
+fake-useragent==0.1.11
+requests==2.21.0
+influxdb==5.2.1
